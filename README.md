@@ -1,7 +1,7 @@
 ## 介绍
 该脚本用于将 Obsidian 的笔记发布到基于 Hugo 或者 [Tailwind Nextjs Starter Blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) 的博客，博客需要通过类似 Vercel 之类的平台部署，在我们将 Markdown 文件和图片资源同步到 GitHub 以后，平台会自动构建部署。所以这个脚本实现的功能是将 Obsidian 的笔记同步到 GitHub。
 
-我自己的个人博客 [Innovation for Bytes](https://www.ifb.me/) 也是基于 Tailwind Nextjs Starter Blog 二次开发的博客，部署在 Vercel 平台，域名使用的是 CloudFlare，通过这个脚本实现了一键将我的 Obsidian 的笔记发布到博客，大大提高了我的码字效率。
+我自己的个人博客 [Innovation for Bytes](https://www.ifb.me/) 也是基于 Tailwind Nextjs Starter Blog 二次开发的博客，部署在 Vercel 平台，域名使用的是 CloudFlare，通过这个脚本实现了一键将我的本地 Obsidian 笔记发布到博客，大大提高了我的码字效率。
 
 ## 特点
 - 将文件从 Obsidian 源目录复制到博客本地 Git 目录
